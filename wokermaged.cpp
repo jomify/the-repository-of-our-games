@@ -115,7 +115,9 @@ void wokermanager::save() {
 
 }
 
-
+void tset() {
+	cout << "²âÊÔ³É¹¦" << endl;
+}
 
 
 
