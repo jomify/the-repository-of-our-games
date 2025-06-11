@@ -1,0 +1,6 @@
+[
+  {"complexity": 1.0, "best_sample": 16},
+  {"complexity": 1.5, "best_sample": 24},
+  {"complexity": 2.0, "best_sample": 32},
+  {"complexity": 0.5, "best_sample": 8}
+]
